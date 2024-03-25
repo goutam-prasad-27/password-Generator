@@ -1,5 +1,5 @@
 # password-Generator
- **Here's a breakdown of the code in bullet points:**
+ **Here's a breakdown of the code:**
 
 **1. Imports:**
 
